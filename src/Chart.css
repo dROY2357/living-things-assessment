@@ -1,0 +1,14 @@
+.chart-container {
+  width: 70%;
+  margin: 0 auto;
+  overflow-x: auto;
+}
+
+.chart-display {
+  height: 50vh;
+  width: 20000px;
+}
+
+.heading-chart {
+  text-align: center;
+}
